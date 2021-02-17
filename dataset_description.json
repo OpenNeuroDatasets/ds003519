@@ -1,0 +1,11 @@
+{
+  "Name": "VisualWorkingMemory",
+  "ReferencesAndLinks": ["PMID: 29569219"],
+  "Authors": [
+    "James F Cavanagh",
+    "Michael J Frank",
+    "James Broadway"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
